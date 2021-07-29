@@ -374,7 +374,7 @@ def calculate_price(products, shipping)
     end
   end
 
-  return 1
+  return 50
 end
 
 def currency_for_country(country)
